@@ -14,7 +14,7 @@ Use cases
 ---------
 This tool can be useful in order to:
  - Validate a downloaded map database to check it has been downloaded and extracted
-   correctly and/or uploaded correctly by VW
+   correctly and/or uploaded correctly by VW.
  - Validate a map update copied to an USB pen drive to ensure no data got corrupted
    while copying or due to a broken pen drive.
  - Validate a map update you're about to deliver to your customers when you're a big
